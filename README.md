@@ -1,19 +1,14 @@
+<div align="center">
 
-# Hey, I'm Thomas!
-**Game Developer** 
+# Thomas Deroy
+**Game Developer**
 
-[![Belgium](https://img.shields.io/badge/Belgium-black?style=for-the-badge&logo=map&logoColor=white)](https://github.com/thomasderoy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-deroy/)
+[![Belgium](https://img.shields.io/badge/Belgium-black?style=flat-square&logo=map&logoColor=white)](https://github.com/thomasderoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-deroy/)
 
 ---
 
 ### 📊 Code Analytics
-
-<p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomas-Deroy)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Deroy&layout=compact)
-</p>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thomas-Deroy&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 
 ---
-
-
+</div>
