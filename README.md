@@ -8,7 +8,7 @@
 ---
 
 ### 📊 Code Analytics
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thomas-Deroy&layout=compact&theme=tokyonight&hide_border=true&hide=c" width="400" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thomas-Deroy&layout=compact&theme=tokyonight&hide_border=true&hide=c&langs_count=8" width="400" />
 
 ---
 </div>
